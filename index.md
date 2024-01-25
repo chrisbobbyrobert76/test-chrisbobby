@@ -15,3 +15,4 @@ Le texte qui suit ne représente en aucun cas une trame claire et précise du pr
 Dans la possibilité où une aide technique semble nécessaire, il convient de faire appel à un tiers, qu'il fasse partie de votre cercle proche, d'un réseau plus large ou simplement de la communauté GitHub.
 
 ![Texte décrivant l'image]({% link images/GitHub.png %}) 
+<img src="images/GitHub.png" width="30%" border="10%" style="border-color:#000000;color:#000000"> 
