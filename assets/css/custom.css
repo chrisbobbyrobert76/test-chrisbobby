@@ -5,3 +5,9 @@
 #classeTitre2 {
     color : #ffff00;
 }
+
+IMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
