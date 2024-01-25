@@ -1,8 +1,13 @@
 ---
-title: "Accueil"
+title: "**TEST**"
 order: 0
 in_menu: true
 ---
-# L'Échappée Belle
+# Ceci est un titre de _test_
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+## Petit titre
+
+je commence, en ce jour, un test du logiciel _SCRIBOUILLI_.
+Le texte qui suit ne représente en aucun cas une trame claire et précise du propos qui pourrait ressortir de la couche 8 OSI ! 
+
+![Texte décrivant l'image]({% link images/PersonnePC.jpg %}) 
