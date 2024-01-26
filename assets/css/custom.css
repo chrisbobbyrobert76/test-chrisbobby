@@ -15,6 +15,16 @@ img {
     margin-right: auto;
 }
 
-.percent {
-    font-size: 200%;
+[data-title]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+}
+[data-title]:after {
+    content: attr(data-title);
+    font-size: 150%;
+    visibility: hidden;
+}
+[data-title] {
+    position: relative;
 }
