@@ -101,7 +101,7 @@ html, body {
   padding: 0;
 }
 img {
-  max-width: 100%;
+  max-width: 50%;
 }
 .slider-container {
   max-width: 800px;
