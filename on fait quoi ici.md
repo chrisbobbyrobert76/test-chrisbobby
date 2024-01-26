@@ -36,7 +36,7 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
       </div>
       
       <input class="slide-input" id="slide-dot-1" type="radio" name="slides" checked>
-      <img class="slide-img" src="images/FF1Wall.jpg">
+      <img class="slide-img" src="images/FF1Wall.jpeg">
 
       <input class="slide-input" id="slide-dot-2" type="radio" name="slides">
       <img class="slide-img" src="images/FF2Wall.jpg">
