@@ -9,7 +9,9 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
 
 
 - Final Fantasy I, le jeu de la dernière chance !
+
 <img src="images/FF1NES.jpg"
+
 - Final Fantasy IV, le tournant de l'ATB
 - Final Fantasy VI, un jeu pour adultes ?
 - Final Fantasy VII, la 3D au service d'une nouvelle console
