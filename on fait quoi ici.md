@@ -17,3 +17,11 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
 - Final Fantasy VII, la 3D au service d'une nouvelle console
 - 
 - 
+
+
+
+<div class="center">
+ <h1>
+   Background Animation
+   </h1>
+</div> 
