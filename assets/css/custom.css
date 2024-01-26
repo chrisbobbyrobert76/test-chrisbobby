@@ -54,7 +54,10 @@ to {background-position: -100px 0px;background-size:2750px;}
     --couleur-primaire : #2a6442;
 }
 
-color: #ffffff
+<style type="text/css">
+.couleur-texte{ color : #ffffff }
+</style>
+<div class="couleur-texte">couleur de la police du texte : #ffffff</div> 
 
 #classeTitre2 {
     color : #ffff00;
