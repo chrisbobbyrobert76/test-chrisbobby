@@ -18,7 +18,7 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
 
 ### La première décennie en images 
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Custom Slider</title>
