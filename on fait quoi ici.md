@@ -15,3 +15,5 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
 - Final Fantasy IV, le tournant de l'ATB
 - Final Fantasy VI, un jeu pour adultes ?
 - Final Fantasy VII, la 3D au service d'une nouvelle console 
+
+### La première décennie en images 
