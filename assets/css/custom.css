@@ -27,8 +27,6 @@ to {background-position: -100px 0px;background-size:2750px;}
 
 }
 
-
-
 .center
 {
   display: flex;
@@ -55,6 +53,8 @@ to {background-position: -100px 0px;background-size:2750px;}
 :root {
     --couleur-primaire : #2a6442;
 }
+
+color: #ffffff
 
 #classeTitre2 {
     color : #ffff00;
