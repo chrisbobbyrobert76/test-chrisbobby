@@ -105,7 +105,7 @@ img {
   max-width: 800px;
   position: relative;
   margin: auto;
-  height: 450px;
+  height: 100%;
   overflow: hidden;
 }
 .menu {
