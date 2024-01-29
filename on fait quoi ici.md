@@ -62,3 +62,15 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
 </audio> --->
 
 <!--- <iframe width="560" height="315" src="https://www.youtube.com/embed/a2geXdXsiBU?si=3kSyrun3zjb39ibn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> ---> 
+
+<div class="Slideshow">
+    <div class="Slideshow-Content">
+        <img src="images/FF1Wall.jpeg" />
+        <img src="images/FF2Wall.jpg" />
+        <img src="images/FF3Wall.png" />
+        <img src="images/FF4Wall.jpg" />
+        <img src="images/FF5Wall.webp" />
+        <img src="images/FF6Wall.jpg" />
+        <img src="images/FF7Wall.webp" />
+    </div>
+</div> 
