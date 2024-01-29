@@ -20,16 +20,16 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
 
 
 
-    <div class="slider-container">
-      <div class="menu">
-        <label for="slide-dot-1"></label>
-        <label for="slide-dot-2"></label>
-        <label for="slide-dot-3"></label>
-        <label for="slide-dot-4"></label>
-        <label for="slide-dot-5"></label>
-        <label for="slide-dot-6"></label>
-        <label for="slide-dot-7"></label>
-      </div>
+<div class="slider-container">
+  <div class="menu">
+    <label for="slide-dot-1"></label>
+    <label for="slide-dot-2"></label>
+    <label for="slide-dot-3"></label>
+    <label for="slide-dot-4"></label>
+    <label for="slide-dot-5"></label>
+    <label for="slide-dot-6"></label>
+    <label for="slide-dot-7"></label>
+  </div>
       
       <input class="slide-input" id="slide-dot-1" type="radio" name="slides" checked>
       <img class="slide-img" src="images/FF1Wall.jpeg">
