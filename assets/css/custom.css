@@ -94,7 +94,7 @@ img {
     position: relative;
 
 
-body {
+html, body {
   width: 50%;
   height: 50%;
   margin: 0;
