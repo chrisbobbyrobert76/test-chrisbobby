@@ -146,8 +146,6 @@ img {
   transition: left 0.65s ease-out;
 }
 
-
-
 .diaporama {
   animation: slide 24s ease infinite 0s;
   width: 700%;
