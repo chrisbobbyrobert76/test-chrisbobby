@@ -95,8 +95,8 @@ img {
 
 
 html, body {
-  width: 50%;
-  height: 50%;
+  width: 100%;
+  height: 100%;
   margin: 0;
   padding: 0;
 }
@@ -134,7 +134,7 @@ img {
   opacity: 0;
 }
 .slide-img {
-  width: 50%;
+  width: 100%;
   height: 300px;
   position: absolute;
   top: 0;
