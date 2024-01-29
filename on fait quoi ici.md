@@ -19,11 +19,7 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
 ### La première décennie en images 
 
 
-<html>
-  <head>
-    <title>Custom Slider</title>
-  </head>
-  <body>
+
     <div class="slider-container">
       <div class="menu">
         <label for="slide-dot-1"></label>
@@ -56,6 +52,4 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
       <input class="slide-input" id="slide-dot-7" type="radio" name="slides">
       <img class="slide-img" src="images/FF7Wall.webp">
 
-    </div>
-  </body>
-</html> 
+    </div> 
