@@ -105,7 +105,7 @@ img {
   max-width: 800px;
   position: relative;
   margin: auto;
-  height: 100%;
+  height: 450px;
   overflow: hidden;
 }
 .menu {
@@ -133,7 +133,7 @@ img {
 }
 .slide-img {
   width: 100%;
-  height: 100%;
+  height: 400px;
   position: absolute;
   top: 0;
   left: 100%;
