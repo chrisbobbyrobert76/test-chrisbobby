@@ -145,3 +145,34 @@ img {
   z-index: 100;
   transition: left 0.65s ease-out;
 }
+
+
+
+.diaporama {
+  animation: slide 24s ease infinite 0s;
+  width: 700%;
+}
+@keyframes slide {
+  0%, 8.33%, 100% {
+    transform: translate(0,0);
+  }
+  14.58%, 22.92% {
+    transform: translate(-14.29%,0);
+  }
+  29.17%, 37.50% {
+    transform: translate(-28.57%,0);
+  }
+  43.75%, 52.08% {
+    transform: translate(-42.86%,0);
+  }
+  58.33%, 66.67% {
+    transform: translate(-57.14%,0);
+  }
+  72.92%, 81.25% {
+    transform: translate(-71.43%,0);
+  }
+  87.50%, 95.83% {
+    transform: translate(-85.71%,0);
+  }
+}
+
