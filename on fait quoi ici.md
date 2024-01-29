@@ -56,3 +56,7 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
 ### 1997 : La console PlayStation
 
 - A l'arrivé de Final Fantasy 7 sur PlayStation, la licence prend un tournant commercial et le développement à l'internationnal de _FF_ donnera un nouvel essor pour la décennie à suivre. 
+
+<audio controls preload="auto" loop muted>
+    <source src="https://www.youtube.com/watch?v=a2geXdXsiBU" type="audio/mpeg">
+</audio> 
