@@ -61,4 +61,4 @@ Nous partons sur un choix de l'histoire de la licence du jeux vidéo Japonais _F
     <source src="https://www.youtube.com/watch?v=a2geXdXsiBU" type="audio/mpeg">
 </audio>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a2geXdXsiBU?si=3kSyrun3zjb39ibn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<!--- <iframe width="560" height="315" src="https://www.youtube.com/embed/a2geXdXsiBU?si=3kSyrun3zjb39ibn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> ---> 
